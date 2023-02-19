@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document */
+.body{
+	background-color:#282C36;}
+.fieldset{
+	width:350px;
+	background-color:#282C36;
+	padding-top:5px;
+	padding-right: auto;
+	padding-bottom: 50px;
+	padding-left:35px;
+	margin-left:auto;
+	margin-right:auto;
+	border-width: px;
+	border-color:#747474;
+	border-style: solid;
+	border-radius: 25px;
+	}
+.h1{font-family:aeonik;
+	font-style: normal;
+	font-weight:500;
+	font-size: 40px;
+	color: #8CA9BE;
+	align: left;}
+.label{font-family:aeonik;
+	font-style: normal;
+	font-weight:400;
+	font-size: 20px;
+	color: #8CA9BE;
+	align: left;
+	}
+.boxes{
+	width:300px;
+	margin-left:auto;
+	margin-right:auto;
+	border-width:auto ;
+	border-colour: grey;
+	border-radius: 5px;
+	font-family: aeonik;
+	font-size:20px;
+	padding-top:5px;
+	padding-bottom: 5px;
+	}
+.button {width:300px;
+	background-color:#4719D0;
+	border-width:auto ;
+	border-color:black;
+	border-radius: 5px;
+	font-family: aeonik;
+	font-size:20px;
+	font-weight: 500;
+	color:#8CA9BE;
+	padding-top:5px;
+	padding-bottom: 5px;
+}
+.boxesbien{
+	width:300px;
+	border-weigth:5px;
+	border-style:solid;
+	border-color:#08F100;
+	margin-left:auto;
+	margin-right:auto;
+	background-repeat: no-repeat;
+	background-position:270px;
+	background-image: url(file:///C:/Users/Usuario/Documents/samsung/curso02/pruebas/prueba%20final/im%C3%A1genes/success-icon.svg);
+border-radius: 5px;
+	font-family: aeonik;
+	font-size:20px;
+	padding-top:5px;
+	padding-bottom: 5px;}
+	
+.boxesmal{
+	width:300px;
+	border-weigth:5px;
+	border-style:solid;
+	border-color:#F20004;
+	margin-left:auto;
+	margin-right:auto;
+	background-repeat: no-repeat;
+	background-position:270px;
+	background-image: url(file:///C:/Users/Usuario/Documents/samsung/curso02/pruebas/prueba%20final/im%C3%A1genes/error-icon.svg);
+	border-radius: 5px;
+	font-family: aeonik;
+	font-size:20px;
+	padding-top:5px;
+	padding-bottom: 5px;
+	
+	
+}

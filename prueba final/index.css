@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+.body {background-color:#1C262F}
+.h1{font-family: "aeonik";  
+	font-style:normal;
+	font-weight:bold;
+	font-size:40px
+	;color:#7CACB1; 
+	text-align:left}
+.fieldset {
+width:300px; 
+padding:50px; 
+padding-bottom: 10px;
+padding-top:5px;
+border-width: 3px;
+border-style: solid;
+border-color:white;
+border-radius: 20px;	
+margin-right:auto;
+margin-left:auto;
+background-color: #1C262F}
+.label{font-family: "aeonik";  
+	font-style:normal; 
+	font-weig:bold; 
+	font-size:17px;
+	color:#7CACB1; 
+	text-align:left}
+.button{font-family: "aeonik";  
+	font-style:normal;
+	font-weig:bold;
+	font-size:20px
+	;color:#7CACB1; 
+	width: 300px;
+	padding-right:125px;
+	padding-left: 125px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	border-color: black;
+	border-radius: 5px;
+	background-color:#501FCF;}
+.boxes{width: 300px;
+	font-family: "aeonik";  
+	font-style:normal;
+	font-weight:regular;
+	font-size:20px;
+	border-radius:5px	
+	;color:#7CACB1}
+		
+	
+	
+		
+		
+	
+

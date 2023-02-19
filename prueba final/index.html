@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Formulario_Martínez_ Carolina</title>
+<link href="css.css" rel="stylesheet" type="text/css">
+	<script src= "index.js"> </script>
+</head>
+
+<body class="body">
+
+	<form action="./create aaccount.php" class="fieldset">
+	<h1 class="h1"> Create account</h1>
+		<br>
+		
+		<label class= "label">Nombre:
+			<br>
+			<input type="text" 
+	  		 name="nombre" 
+	  		 value="" 
+	  		 pattern= "^[A-Za-z¨´~]" 
+	  		 required="required" class="boxesmal"/>
+</label><br />
+		<br>
+		<br>
+		<br>
+		<label class= "label">Email: <br>
+<input type="email" 
+	   name="email" value="" 
+	   pattern="[A-Za-z0-9]+ \@ mail.com"
+	   required="required"
+	   class="boxes"/>
+</label><br />
+		<br>
+		<br>
+		<br>
+		<label class= "label">Clave: <br>
+<input type="password" 
+	   name="clave" 
+	   value="" 
+	   minlength="8" 
+	   required="required"
+	   class="boxes"/>
+</label><br />
+		<br>
+		<br>
+		<br>
+		<label class= "label">Confirme su clave: <br>
+<input type="password" 
+	   name="clave" 
+	   value="" 
+	   minlength="8" 
+	   required="required"
+	   class="boxesbien"/>
+</label><br />
+
+		<br>
+		<br>
+			
+	<button type="submit" class="button">ENVIAR</button>
+		</form>
+</body>
+</html>
